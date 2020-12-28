@@ -1,6 +1,6 @@
 library(shiny)
 library(datasets)
-
+library(ggplot2)
 mpgData <- mtcars
 ui <- fluidPage(
   titlePanel("IE 421 Homework- Lal Akın"),
